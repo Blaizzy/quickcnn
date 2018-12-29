@@ -247,7 +247,7 @@ print(convnet.results)
 - [ ] confusion-matrix
 - [ ] Evaluate Generator
 - [ ] Plot tp, fp, tn, fn images with result and confidence
-- [ ] Restructure the code as per coding stanadrd. :grimacing:
+- [ ] Restructure the code as per coding standard. :grimacing:
 
 ## :mag: My Related Projects
 
